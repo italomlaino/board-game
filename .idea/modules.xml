@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BoardGameGUI.iml" filepath="$PROJECT_DIR$/BoardGameGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoardGameModel.iml" filepath="$PROJECT_DIR$/BoardGameModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReversiGUI.iml" filepath="$PROJECT_DIR$/ReversiGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReversiModel.iml" filepath="$PROJECT_DIR$/ReversiModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToeGUI.iml" filepath="$PROJECT_DIR$/TicTacToeGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToeModel.iml" filepath="$PROJECT_DIR$/TicTacToeModel.iml" />
+    </modules>
+  </component>
+</project>
+
